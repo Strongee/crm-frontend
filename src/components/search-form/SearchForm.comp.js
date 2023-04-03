@@ -1,6 +1,6 @@
 import React from "react";
 import { Form, Row, Col } from "react-bootstrap";
-import PropTypes from "prop-types";
+import PropTypes from "prop-types"; 
 
 export const SearchForm = ({ handleOnChange, str }) => {
   return (
